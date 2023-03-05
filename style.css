@@ -22,13 +22,13 @@ header {
     text-align: center;
 }
 
-header h2 {
+header h1 {
     font-size: 2.267rem;
     font-weight: 200;
     color: hsl(234, 12%, 34%);
 }
 
-header h3{
+header h2{
     font-size: 2.267rem;
     font-weight: 600;
     color: hsl(234, 12%, 34%);
@@ -75,7 +75,7 @@ header p{
     border-top: 5px solid hsl(212, 86%, 64%);
 }
 
-.box-text h4 {
+.box-text h3 {
     font-size: 1.333rem;
     color: hsl(234, 12%, 34%);
     margin-top: 1rem;
@@ -105,11 +105,11 @@ header p{
         font-size: 13px;
     }
 
-    header h2{
+    header h1{
         font-size: 1.538rem;
     }
 
-    header h3{
+    header h2{
         font-size: 1.538rem;
     }
 
